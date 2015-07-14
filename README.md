@@ -1,2 +1,2 @@
 # css-desgin-pattern
-This document is for studio css desgin pattern
+ Scalable and Modular Approaches
