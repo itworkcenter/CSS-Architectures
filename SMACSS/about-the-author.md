@@ -1,7 +1,7 @@
 
 #About the Author
 
-Hi, my name is Jonathan Snook. I’m a web developer and designer who has been building web sites as a hobby since 1994 and as a professional since 1999.
+Hi, my name is `Jonathan Snook`. I’m a web developer and designer who has been building web sites as a hobby since 1994 and as a professional since 1999.
 
 I maintain a blog at Snook.ca where I write tips, tricks and bookmarks on web development. I also speak at conferences and workshops and have been thankful to have been able to travel the world to share what I know.
 
