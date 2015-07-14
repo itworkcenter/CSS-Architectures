@@ -1,11 +1,11 @@
 #Scalable and Modular Architecture for CSS
 ## Directory
 
-* `Preface`
+* ***`Preface`***
   1. About the Author
   2. Introduction
 
-* `Core`
+* ***`Core`***
   3. Categorizing CSS Rules
   4. Base Rules
   5. Layout Rules
@@ -15,13 +15,13 @@
   9. Changing State
   
   
-* `Aspects of SMACSS`
+* ***`Aspects of SMACSS`***
   10. Depth of Applicability
   11. Selector Performance
   12. HTML5 and SMACSS
   13. Prototyping
 
-* `Aspects(cont) Premium access`
+* ***`Aspects(cont) Premium access`***
   14. Preprocessors
   15. Drop the Base
   16. The Icon Module
@@ -29,6 +29,6 @@
   18. Screencast:Applying the Principles
   19. Screencast: Avoiding Content-specific Context
 
-* `Appendix`
+* ***`Appendix`***
   20. Formatting Code
   21. Resources
