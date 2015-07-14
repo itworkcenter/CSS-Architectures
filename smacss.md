@@ -1,8 +1,15 @@
 #Scalable and Modular Architecture for CSS
 ##Directory
+>Preface
 
-> Preface
->> 1.About the Author
+>>1.About the Author
 
->> 2.Introduction
+>>2.Introduction
 
+>Core
+
+>Aspects of SMACSS
+
+>Aspects(cont) Premium access
+
+>Appendix
