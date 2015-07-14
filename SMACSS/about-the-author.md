@@ -3,7 +3,7 @@
 
 Hi, my name is `Jonathan Snook`. I’m a web developer and designer who has been building web sites as a hobby since 1994 and as a professional since 1999.
 
-I maintain a blog at Snook.ca where I write tips, tricks and bookmarks on web development. I also speak at conferences and workshops and have been thankful to have been able to travel the world to share what I know.
+I maintain a blog at [Snook.ca](http://snook.ca/) where I write tips, tricks and bookmarks on web development. I also speak at conferences and workshops and have been thankful to have been able to travel the world to share what I know.
 
 I’ve co-authored two books to date: The Art and Science of CSS (from Sitepoint) and Accelerated DOM Scripting (from Apress). I’ve also written for .net magazine, A List Apart, Sitepoint.com, and many more resources online and off.
 
