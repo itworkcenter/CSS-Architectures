@@ -1,5 +1,5 @@
 #Scalable and Modular Architecture for CSS
-> ## Directory
+## Directory
   * ***`Preface`***
     1. About the Author
     2. Introduction
