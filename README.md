@@ -1,5 +1,5 @@
 #CSS Architectures
- Scalable and Modular Approaches [Document for you](http://www.baidu.com)
+ `Scalable` and `Modular` Approaches [Document for you](http://www.baidu.com)
  ```js
    var baidu = baidu.com
  ```
