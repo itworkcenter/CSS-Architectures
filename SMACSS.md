@@ -1,6 +1,6 @@
 #Scalable and Modular Architecture for CSS
 
-From: [SMACSS BOOK](https://smacss.com/book/)
+From: [SMACSS BOOK] https://smacss.com/book/
 
 ## Directory
   * ***`Preface`***
