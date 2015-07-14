@@ -1,2 +1,2 @@
-# css-desgin-pattern
+# CSS Architectures
  Scalable and Modular Approaches
