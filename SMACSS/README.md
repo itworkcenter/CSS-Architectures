@@ -15,7 +15,7 @@ From: [SMACSS BOOK] https://smacss.com/book/
     8. Theme Rules
     9. Changing State
   * ***`Aspects of SMACSS`***
-    10. Depth of Applicability
+    10. [Depth of Applicability](10.depth-of-applicability.md)
     11. [Selector Performance](11.selector-performance.md)
     12. HTML5 and SMACSS
     13. Prototyping
