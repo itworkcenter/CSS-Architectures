@@ -7,7 +7,7 @@ From: [SMACSS BOOK] https://smacss.com/book/
     1. [About the Author](/SMACSS/1.about-the-author.md)
     2. [Introduction](/SMACSS/2.introduction.md)
   * ***`Core`***
-    3. Categorizing CSS Rules
+    3. [Categorizing CSS Rules](/SMACSS/3.categoriziing-css-rules.md)
     4. Base Rules
     5. Layout Rules
     6. Module Rules
