@@ -4,11 +4,11 @@ From: [SMACSS BOOK] https://smacss.com/book/
 
 ## Directory
   * ***`Preface`***
-    1. [About the Author](/SMACSS/1.about-the-author.md)
-    2. [Introduction](/SMACSS/2.introduction.md)
+    1. [About the Author](1.about-the-author.md)
+    2. [Introduction](2.introduction.md)
   * ***`Core`***
-    3. [Categorizing CSS Rules](/SMACSS/3.categoriziing-css-rules.md)
-    4. [Base Rules](/SMACSS/4.base-rules.md)
+    3. [Categorizing CSS Rules](3.categoriziing-css-rules.md)
+    4. [Base Rules](4.base-rules.md)
     5. Layout Rules
     6. Module Rules
     7. State Rules
@@ -16,7 +16,7 @@ From: [SMACSS BOOK] https://smacss.com/book/
     9. Changing State
   * ***`Aspects of SMACSS`***
     10. Depth of Applicability
-    11. [Selector Performance](/SMACSS/11.selector-performance.md)
+    11. [Selector Performance](11.selector-performance.md)
     12. HTML5 and SMACSS
     13. Prototyping
   * ***`Aspects(cont) Premium access`***
