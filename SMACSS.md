@@ -16,7 +16,7 @@ From: [SMACSS BOOK] https://smacss.com/book/
     9. Changing State
   * ***`Aspects of SMACSS`***
     10. Depth of Applicability
-    11. [Selector Performance](/11.selector-performance.md)
+    11. [Selector Performance](/SMACSS/11.selector-performance.md)
     12. HTML5 and SMACSS
     13. Prototyping
   * ***`Aspects(cont) Premium access`***
