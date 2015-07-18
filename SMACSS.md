@@ -4,7 +4,7 @@ From: [SMACSS BOOK] https://smacss.com/book/
 
 ## Directory
   * ***`Preface`***
-    1. [About the Author](/SMACSS/about-the-author.md)
+    1. [About the Author](/SMACSS/1.about-the-author.md)
     2. Introduction
   * ***`Core`***
     3. Categorizing CSS Rules
