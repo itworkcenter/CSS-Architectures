@@ -8,7 +8,7 @@ From: [SMACSS BOOK] https://smacss.com/book/
     2. [Introduction](/SMACSS/2.introduction.md)
   * ***`Core`***
     3. [Categorizing CSS Rules](/SMACSS/3.categoriziing-css-rules.md)
-    4. Base Rules
+    4. [Base Rules](/SMACSS/4.base-rules.md)
     5. Layout Rules
     6. Module Rules
     7. State Rules
