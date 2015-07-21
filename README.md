@@ -1,23 +1,4 @@
 #CSS Architectures
  `Scalable` and `Modular` Approaches [Document for you](http://www.baidu.com)
- ```js
-   var baidu = baidu.com
- ```
- ```css
- body{
-  margin:0;
-  padding:0
- }
- ```
  
-# title
-## title
-### title
-##### title
-###### title
-####### title
-
->人
->>小孩
->>>女孩
->>男人
+ [SMACSS](/CSS-Architectures)
