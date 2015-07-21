@@ -12,8 +12,8 @@ From: [SMACSS BOOK] https://smacss.com/book/
     5. [Layout Rules](5.layout-rules.md)
     6. [Module Rules](6.module-rules.md)
     7. [State Rules](7.state-rules.md)
-    8. Theme Rules
-    9. Changing State
+    8. [Theme Rules](8.theme-rules.md)
+    9. [Changing State](9.changing-state.md)
   * ***`Aspects of SMACSS`***
     10. [Depth of Applicability](10.depth-of-applicability.md)
     11. [Selector Performance](11.selector-performance.md)
