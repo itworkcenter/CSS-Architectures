@@ -11,7 +11,7 @@ From: [SMACSS BOOK] https://smacss.com/book/
     4. [Base Rules](4.base-rules.md)
     5. [Layout Rules](5.layout-rules.md)
     6. [Module Rules](6.module-rules.md)
-    7. State Rules
+    7. [State Rules](7.state-rules.md)
     8. Theme Rules
     9. Changing State
   * ***`Aspects of SMACSS`***
