@@ -17,8 +17,8 @@ From: [SMACSS BOOK] https://smacss.com/book/
   * ***`Aspects of SMACSS`***
     10. [Depth of Applicability](10.depth-of-applicability.md)
     11. [Selector Performance](11.selector-performance.md)
-    12. HTML5 and SMACSS
-    13. Prototyping
+    12. [HTML5 and SMACSS](12.html5-and-smacss.md)
+    13. [Prototyping](13.prototyping.md)
   * ***`Aspects(cont) Premium access`***
     14. Preprocessors
     15. Drop the Base
